@@ -1,2 +1,2 @@
 # model zoo
-model repo
+downloadable model repo
